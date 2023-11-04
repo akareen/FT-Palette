@@ -4,7 +4,7 @@ Inspired by the iconic and enjoyable reading experience of the Financial Times, 
 
 Personally I use this theme with Night Shift mode on my monitor to make coding even easier on the eyes, the color palette works well with the warmer tones of Night Shift but also works just as well with the default screen colors.
 
-![FT Palette Theme Preview](assets/theme-preview.png)
+![FT Palette Theme Preview](https://raw.githubusercontent.com/akareen/FT-Palette/main/assets/theme-preview.png)
 
 ## Installation
 
