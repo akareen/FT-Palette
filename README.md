@@ -1,35 +1,47 @@
-# FT Palette - A theme for VS Code
+# FT Palette - Elevate Your Code with Financial Elegance
 
-Inspired by the iconic and enjoyable reading experience of the Financial Times, the Financial Elegance theme brings a sense of sophistication and clarity to your coding environment. Whether you're deep in the trenches of the financial industry or crafting code in any other sector, this theme provides a visually pleasing palette that's easy on the eyes and conducive to productivity.
+## A Visual Studio Code Theme
 
-Personally I use this theme with Night Shift mode on my monitor to make coding even easier on the eyes, the color palette works well with the warmer tones of Night Shift but also works just as well with the default screen colors.
+Welcome to **FT Palette**, a Visual Studio Code theme inspired by the iconic styling of the Financial Times. Embrace a theme that elevates your coding experience with a design ethos rooted in the clarity and sophistication of premier financial journalism.
 
-![FT Palette Theme Preview](https://raw.githubusercontent.com/akareen/FT-Palette/main/assets/theme-preview.png)
+![FT Palette Theme Preview](https://raw.githubusercontent.com/akareen/FT-Palette/main/assets/theme_preview.png)
 
-## Installation
+## Experience the Allure of Financial Elegance in Every Line of Code
 
-1. Open **Extensions** sidebar panel in VS Code: `View → Extensions`
-2. Search for `FT Palette `
-3. Click **Install**
-4. Click **Reload** to reload your editor
-5. Code/File ＞ Preferences ＞ Color Theme ＞ **FT Palette**
+FT Palette is more than just a color scheme—it's a celebration of the art of coding, presented through a palette that embodies the professional aesthetic of the financial sector. Whether you're writing algorithms, analyzing data, or developing the next big app, our theme ensures a visually pleasing, easy-on-the-eyes experience that encourages productivity and focus.
 
-## What's in the Theme?
+I crafted FT Palette to seamlessly blend with Night Shift modes or any warm-toned display settings—perfect for those late-night coding sessions. The color selection not only complements warmer tones but also maintains its distinct clarity with default screen settings.
 
-The FT Palette theme is a delicate balance of understated tones and contrast, reflecting the Financial Times' unique color palette. It is designed to be easy on the eyes during long coding sessions while maintaining optimal contrast that helps in focusing on the task at hand.
+## Seamless Installation
 
-## Contributing
+1. Launch **VS Code** and open the **Extensions** sidebar panel with `View → Extensions`.
+2. Enter `FT Palette` in the search bar.
+3. Hit **Install** to add sophistication to your coding suite.
+4. **Reload** your editor to activate the theme.
+5. Navigate to `Code/File ＞ Preferences ＞ Color Theme ＞ FT Palette` and apply your new look.
 
-Found an issue? Feel free to report it on the [issues page](https://github.com/akareen/FT-Palette/issues). Contributions to the FT Palette  theme are always welcome, whether it's tweaking the color palette or enhancing the usability. To contribute, please fork the repository, make your changes, and create a pull request!
+## Designed for the Discerning Developer
+
+Each color in the FT Palette has been meticulously chosen to balance understated elegance with clear visibility. Our theme facilitates prolonged coding sessions by minimizing eye strain and maximizing readability—your code has never looked this good.
+
+## Join the FT Palette Community
+
+Encounter an issue? Have a suggestion? Your contributions can help refine the elegance of FT Palette. Report issues or share your ideas on our [issues page](https://github.com/akareen/FT-Palette/issues).
+
+To contribute:
+
+1. **Fork** the repository on GitHub.
+2. **Make** your innovative changes.
+3. **Submit** a pull request for review.
+
+Together, we can forge the most sophisticated coding experience in the marketplace.
 
 ## License
 
-This theme is released under the MIT License.
+FT Palette is open-sourced software licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
+## Acknowledgements and Inspirations
 
-This theme is inspired by the Financial Times and its commitment to delivering a high-quality reading experience. It is an homage to the art of information delivery that the Financial Times has mastered, reimagined for the world of code.
+FT Palette is our nod to the storied tradition of the Financial Times, which stands as a paragon of journalistic excellence and visual design. While our theme is solely inspired by the newspaper's aesthetic, it is an original creation designed to enrich the digital tapestry of developers.
 
 ---
-
-Enjoy coding with a dapper theme that brings the elegance of high finance to your editor!
