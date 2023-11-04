@@ -1,0 +1,42 @@
+{
+    "name": "ft-palette",
+    "displayName": "FT Palette",
+    "description": "A VS Code theme based on the Financial Times Newspaper. Decisions were made to create a great experience whilst writing and reading code.",
+    "version": "0.0.1",
+    "publisher": "akareen",
+    "engines": {
+      "vscode": "^1.38.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+      "themes": [
+        {
+          "label": "FT Palette",
+          "uiTheme": "vs",
+          "path": "ft_based_color_theme.json"
+        }
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/akareen/FT-Palette"
+    },
+    "bugs": {
+      "url": "https://github.com/akareen/FT-Palette/issues"
+    },
+    "homepage": "https://github.com/akareen/FT-Palette#readme",
+    "icon": "assets/icon.png",
+    "galleryBanner": {
+      "color": "#fff1e5",
+      "theme": "light"
+    },
+    "keywords": [
+      "financial times",
+      "financial",
+      "salmon",
+      "solarized",
+      "pink",
+      "theme"
+    ]
+  }
+  
