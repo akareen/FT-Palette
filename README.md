@@ -1,0 +1,1 @@
+# -FT-Palette-a-VSCode-Theme
