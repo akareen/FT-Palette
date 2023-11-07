@@ -208,7 +208,7 @@
     "editorSuggestWidget.border": "#c8c8c8",
     "editorSuggestWidget.foreground": "#000000",
     "editorSuggestWidget.highlightForeground": "#593380",
-    "editorSuggestWidget.selectedBackground": "#fffaf7",
+    "editorSuggestWidget.selectedBackground": "#f0be9f",
     "editorHoverWidget.foreground": "#616161",
     "editorHoverWidget.background": "#f3f3f3",
     "editorHoverWidget.border": "#c8c8c8",
@@ -261,7 +261,7 @@
       "foreground": "#593380"
     },
     "variable.defaultLibrary": {
-      "foreground": "#0d7680"
+      "foreground": "#0f5499"
     }
   },
   "tokenColors": [
@@ -304,7 +304,7 @@
       "name": "variable.parameter.function.language.special.self.python",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -325,7 +325,7 @@
       "name": "entity.name.lifetime.rust",
       "scope": "entity.name.lifetime.rust",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -381,7 +381,7 @@
       "name": "markup diff",
       "scope": "markup.changed.diff",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -437,7 +437,7 @@
       "name": "math js/ts",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -451,7 +451,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -461,7 +461,7 @@
         "storage.type.object.array.java"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -489,7 +489,7 @@
       "name": "java modifier.import",
       "scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -573,14 +573,14 @@
       "name": "js/ts module",
       "scope": "support.module.node,support.type.object.module,support.module.node",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
       "name": "entity.name.type.module",
       "scope": "entity.name.type.module",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -789,7 +789,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -810,7 +810,7 @@
       "name": "Language variables",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -824,7 +824,7 @@
       "name": "Java Imports",
       "scope": "import.storage.java",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -857,21 +857,21 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -882,7 +882,7 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -896,7 +896,7 @@
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -945,7 +945,7 @@
       "name": "Java Storage",
       "scope": "token.storage.type.java",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -994,7 +994,7 @@
       "name": "Inherited Class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1094,7 +1094,7 @@
       "name": "Bold",
       "scope": "punctuation.definition.bold",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1331,7 +1331,7 @@
       "name": "use statement for other classes",
       "scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1373,7 +1373,7 @@
       "name": "php types",
       "scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1513,7 +1513,7 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1527,7 +1527,7 @@
       "name": "cs storage type",
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1605,7 +1605,7 @@
         "support.type.primitive"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1677,7 +1677,7 @@
         "keyword.operator.assignment.go"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1696,7 +1696,7 @@
         "entity.name.package.go"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1751,7 +1751,7 @@
         "entity.global.clojure"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1806,7 +1806,7 @@
         "source.makefile"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1815,7 +1815,7 @@
         "storage.modifier.import.groovy"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1851,7 +1851,7 @@
         "support.variable.semantic.hlsl"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1885,7 +1885,7 @@
         "support.type.vb.asp"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -1894,7 +1894,7 @@
         "entity.name.function.xi"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
@@ -2013,7 +2013,7 @@
         "entity.name.scope-resolution.function.definition"
       ],
       "settings": {
-        "foreground": "#0d7680"
+        "foreground": "#0f5499"
       }
     },
     {
