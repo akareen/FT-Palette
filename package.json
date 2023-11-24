@@ -1,8 +1,8 @@
 {
     "name": "ft-palette",
     "displayName": "FT Palette",
-    "description": "A VS Code theme based on the Financial Times Newspaper. Decisions were made to create a great experience whilst writing and reading code.",
-    "version": "1.0.2",
+    "description": "Theme based on the Financial Times Newspaper. Decisions were made to create a great experience whilst writing and reading code.",
+    "version": "1.0.3",
     "publisher": "akareen",
     "engines": {
       "vscode": "^1.38.0"
